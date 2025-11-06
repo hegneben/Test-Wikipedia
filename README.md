@@ -6,7 +6,8 @@ p
 
 Der Atomkern des gewöhnlichen Wasserstoffs ist ein einzelnes Proton. Daher wird das Proton auch als Wasserstoffkern oder Wasserstoffion bezeichnet. Diese Bezeichnungen sind jedoch nicht eindeutig, weil es Isotope des Wasserstoffs gibt, die zusätzlich ein oder zwei Neutronen im Kern enthalten.
 
-| Proton (p*)                     |  
+| Proton (p*)                     |
+|-----------------------------|
 |Klassifikation                   |
 | Fermion, Hadron, Baryon, Nukleon|
 | Eigenschaften                   |
