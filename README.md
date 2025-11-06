@@ -10,7 +10,7 @@ Der Atomkern des gewöhnlichen Wasserstoffs ist ein einzelnes Proton. Daher wird
 |Klassifikation                   |
 | Fermion, Hadron, Baryon, Nukleon|
 | Eigenschaften                   |
-| elektronische Ladung  | + 1e    |
+| elektronische Ladung    + 1e    |
 
 | Name       | Alter | Beruf         |
 |-------------|--------|----------------|
